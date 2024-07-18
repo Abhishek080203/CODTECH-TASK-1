@@ -28,17 +28,19 @@ This project was developed as part of my internship at CodeTech IT Solutions. It
 
 # Technologies Used
 **Frontend :-**
-**HTML:** For structuring the content on the web pages.
+**HTML:** 1.For structuring the content on the web pages.
 
-**CSS:** For styling and layout of the web pages.
+**CSS:** 1.For styling and layout of the web pages.
 
-**JavaScript:** For adding interactivity and dynamic behavior to the web pages.
+**JavaScript:** 1.For adding interactivity and dynamic behavior to the web pages.
 
 **Backend :-**
-**JDBC**
 
-**Mysql**
+**JDBC :** 1.Use JDBC to connect your Java application to the MySQL database.
+           2.Perform database operations like querying, updating, and managing data.
 
+**Mysql :** 1.Use MySQL as your database management system to store and manage data.
+            
 # Usage
 Open index.html to see the project in action.
 
