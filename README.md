@@ -15,7 +15,6 @@
 ![ss](ss.png)
 
 
-![cd](cd.mp4)
 ## Project Overview ##
 Introduction
 
